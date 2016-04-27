@@ -1,0 +1,10 @@
+main: com.schiebros.gadgetcore.Main
+version: 1.0
+name: GadgetModule
+author: Lakkie
+
+commands:
+  firework:
+    description: Gives you the firework gadget.
+  sheep:
+    description: Gives you the sheep gadget.
